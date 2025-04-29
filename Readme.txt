@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Projet Personnel : Gestion Les Notes Des Eleves
 
-Template Name: QuickStart
-Template URL: https://bootstrapmade.com/quickstart-bootstrap-startup-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Application Web PHP avec Template Bootstrap
